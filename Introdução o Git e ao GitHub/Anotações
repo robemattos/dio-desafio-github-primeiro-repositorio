@@ -5,12 +5,17 @@ A partir de agosto de 2021, agora é necessário gerar um token para ter acesso 
 
 Para acessar o repositório na máquina local:
 - git clone + o link copiado do repositório remoto
+
 Para verificar o status dos arquivos clonados para a máquina local:
 - git status
+
 Para informar ao Git que há novos arquivos ou modificações a serem adicionadas ao repositório:
 - "git add ." ou "git add -A" sem as aspas
+
 Para adicionar as inclusões/alterações ao repositório:
 - git commit -m "comentário a ser adicionado"
+
 Para, efetivamente, incluir as inclusões/modificações ao repositório remoto:
 - git push origin main
 
+Token válido até 22/01/22: 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

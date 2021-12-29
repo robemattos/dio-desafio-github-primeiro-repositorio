@@ -8,4 +8,9 @@ Para acessar o repositório na máquina local:
 Para verificar o status dos arquivos clonados para a máquina local:
 - git status
 Para informar ao Git que há novos arquivos ou modificações a serem adicionadas ao repositório:
-- "git add ." ou "git add -a" sem as aspas
+- "git add ." ou "git add -A" sem as aspas
+Para adicionar as inclusões/alterações ao repositório:
+- git commit -m "comentário a ser adicionado"
+Para, efetivamente, incluir as inclusões/modificações ao repositório remoto:
+- git push origin main
+

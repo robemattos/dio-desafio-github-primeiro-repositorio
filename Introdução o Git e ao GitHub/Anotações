@@ -1,3 +1,11 @@
 
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+A partir de agosto de 2021, agora é necessário gerar um token para ter acesso ao GitHub através da linha de comando.
+
+Para acessar o repositório na máquina local:
+- git clone + o link copiado do repositório remoto
+Para verificar o status dos arquivos clonados para a máquina local:
+- git status
+Para informar ao Git que há novos arquivos ou modificações a serem adicionadas ao repositório:
+- "git add ." ou "git add -a" sem as aspas
